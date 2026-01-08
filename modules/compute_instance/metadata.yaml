@@ -444,6 +444,8 @@ spec:
         type:
           - list
           - string
+      - name: service_account_email
+        description: The service account email associated with the instances.
   requirements:
     roles:
       - level: Project
