@@ -22,7 +22,7 @@ spec:
   info:
     title: Compute Instance
     source:
-      repo: https://github.com/terraform-google-modules/terraform-google-vm
+      repo: https://github.com/Umm-E-Kulsum/terraform-google-vm
       sourceType: git
       dir: /modules/compute_instance
   ui:
