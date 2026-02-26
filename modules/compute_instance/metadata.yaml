@@ -140,7 +140,7 @@ spec:
       - name: num_instances
         description: Number of instances to create. This value is ignored if static_ips is provided.
         varType: number
-        defaultValue: "1"
+        defaultValue: 1
       - name: instance_template
         description: Instance template self_link used to create compute instances
         varType: string
